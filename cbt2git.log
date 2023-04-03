@@ -1,0 +1,16 @@
+2023-04-03 02:55:34.784357 - Initialized conversion of CBT821
+2023-04-03 02:55:34.911808 - Received CBT.V504.FILE821.PDS from FILE821.XMI 
+2023-04-03 02:55:34.914498 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE821.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:55:34.915603 - Found $$$DISCL.txt (text/plain) in CBT.V504.FILE821.PDS, moved to PDS/$$$DISCL
+2023-04-03 02:55:34.916564 - Found $$$DOC.txt (text/plain) in CBT.V504.FILE821.PDS, moved to PDS/$$$DOC
+2023-04-03 02:55:34.917572 - Found $$$INST.txt (text/plain) in CBT.V504.FILE821.PDS, moved to PDS/$$$INST
+2023-04-03 02:55:34.918679 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE821.PDS, moved to PDS/$$NOTE1
+2023-04-03 02:55:34.919679 - Found $CONTACT.txt (text/plain) in CBT.V504.FILE821.PDS, moved to PDS/$CONTACT
+2023-04-03 02:55:34.920695 - Found @FILE821.txt (text/plain) in CBT.V504.FILE821.PDS, moved to PDS/@FILE821
+2023-04-03 02:55:34.921688 - Found CC.rexx (text/plain) in CBT.V504.FILE821.PDS, moved to PDS/CC
+2023-04-03 02:55:34.922573 - Found CCBATCH.rexx (text/plain) in CBT.V504.FILE821.PDS, moved to PDS/CCBATCH
+2023-04-03 02:55:34.923602 - Found CCEND.rexx (text/plain) in CBT.V504.FILE821.PDS, moved to PDS/CCEND
+2023-04-03 02:55:35.023221 - Found CCPDF.xmi (application/xmit) in CBT.V504.FILE821.PDS
+2023-04-03 02:55:35.027956   - Received to CBT821/CC.PDF
+2023-04-03 02:55:35.029218 - Found CCSKEL.rexx (text/plain) in CBT.V504.FILE821.PDS, moved to PDS/CCSKEL
+2023-04-03 02:55:35.030348 - Found INSTPDF.rexx (text/plain) in CBT.V504.FILE821.PDS, moved to PDS/INSTPDF
